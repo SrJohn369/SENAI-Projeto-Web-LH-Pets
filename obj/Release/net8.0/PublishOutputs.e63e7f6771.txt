@@ -1,0 +1,13 @@
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\SENAI-Prjeto-Web-LH-Pets.exe
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\appsettings.json
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\SENAI-Prjeto-Web-LH-Pets.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\SENAI-Prjeto-Web-LH-Pets.deps.json
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\SENAI-Prjeto-Web-LH-Pets.runtimeconfig.json
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\SENAI-Prjeto-Web-LH-Pets.pdb
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João\Documents\GitHub\SENAI-Projeto-Web-LH-Pets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\João\\Documents\\GitHub\\SENAI-Projeto-Web-LH-Pets\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.SENAI-Prjeto-Web-LH-Pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.SENAI-Prjeto-Web-LH-Pets.props",
+      "PackagePath": "build\\SENAI-Prjeto-Web-LH-Pets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SENAI-Prjeto-Web-LH-Pets.props",
+      "PackagePath": "buildMultiTargeting\\SENAI-Prjeto-Web-LH-Pets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.SENAI-Prjeto-Web-LH-Pets.props",
+      "PackagePath": "buildTransitive\\SENAI-Prjeto-Web-LH-Pets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

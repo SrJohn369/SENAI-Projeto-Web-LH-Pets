@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7Ftk+X06AfHHsWC/EQPjO2hf2tjceH2mktvihPNIq3M=",
+  "Source": "SENAI-Prjeto-Web-LH-Pets",
+  "BasePath": "_content/SENAI-Prjeto-Web-LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SENAI-Prjeto-Web-LH-Pets\\wwwroot",
+      "Source": "SENAI-Prjeto-Web-LH-Pets",
+      "ContentRoot": "C:\\Users\\João\\Documents\\GitHub\\SENAI-Projeto-Web-LH-Pets\\wwwroot\\",
+      "BasePath": "_content/SENAI-Prjeto-Web-LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\João\\Documents\\GitHub\\SENAI-Projeto-Web-LH-Pets\\wwwroot\\index.html",
+      "SourceId": "SENAI-Prjeto-Web-LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\João\\Documents\\GitHub\\SENAI-Projeto-Web-LH-Pets\\wwwroot\\",
+      "BasePath": "_content/SENAI-Prjeto-Web-LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
